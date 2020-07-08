@@ -1,0 +1,35 @@
+.first{
+    background-color:#eaf8ea;
+}
+
+.container{
+    margin:20px;
+}
+
+.photo1{
+    width:15%;
+}
+.sing-in{
+   
+    background-color: teal;
+    border-radius: 15px;
+}
+.hold-on{
+    color:rgb(93, 192, 93);
+}
+.container h1{
+    font-size: 50px;
+    font-weight: bold;
+
+}
+.container h6{
+    color:red;
+    font-size:10px;
+
+}
+
+.container p{
+    color: grey;
+    font-size:18px;
+}
+
