@@ -32,4 +32,38 @@
     color: grey;
     font-size:18px;
 }
+.icon img{
+    width: 15%;
+    margin:10px;
+    text-align: center;
+}
+
+.icon img:hover{
+    width:20%;
+    
+}
+
+.on-course{
+    font-size: 30px;
+    text-align: center;
+    color:navy;
+
+}
+
+.card img{
+    width:100%;
+}
+
+.card-footer img{
+    width:5%;
+}
+
+.test-nial img{
+    width:20%;
+    
+}
+.test-nial h1{
+    font-size:35px;
+    text-align:center;
+}
 
