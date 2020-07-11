@@ -60,10 +60,31 @@
 
 .test-nial img{
     width:20%;
-    
+    display:block;
+    margin:0,auto;
 }
 .test-nial h1{
     font-size:35px;
     text-align:center;
 }
 
+.footer{
+    color:#d3d3d3;
+    background-color:black;
+    height:450px;
+}
+
+.footer .footer-content{
+   margin:20px;
+}
+.footer .footer-bottom{
+    color:#686868;
+    height:50px;
+    text-align:center;
+}
+
+button{
+    color:#d3d3d3;
+    background-color:teal;
+    border-radius:15px;
+}
